@@ -1,0 +1,9 @@
+<?xml version = "1.0" ?>
+<company>
+    <director>
+        <name>Bùi Đức Hiệp</name>
+    </director>
+    <address>Hà Nội</address>
+    <phone>0866795772</phone>
+    <taxID>123456789</taxID>
+</company>

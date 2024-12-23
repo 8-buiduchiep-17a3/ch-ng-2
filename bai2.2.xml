@@ -1,0 +1,17 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<ds-sinhvien>
+    <sinhvien>
+        <masv>23174600109</masv>
+        <tensv>Bùi Đức Hiệp</tensv>
+        <birthYear>2005</birthYear>
+        <lop>DHKL17A3HN</lop>
+        <gioitinh>Nam</gioitinh>
+    </sinhvien>
+    <sinhvien>
+        <masv>23174600108</masv>
+        <tensv>Bùi Văn A</tensv>
+        <birthYear>2005</birthYear>
+        <lop>DHKL17A3HN</lop>
+        <gioitinh>Nam</gioitinh>
+    </sinhvien>
+</ds-sinhvien>
